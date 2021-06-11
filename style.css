@@ -143,6 +143,4 @@ select {
 .location select {
   margin-bottom: 15px;
 }
-* {
-  outline: 2px solid red;
-}
+
